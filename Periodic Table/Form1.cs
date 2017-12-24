@@ -29,7 +29,7 @@ namespace Periodic_Table
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("hadfsdf");
         }
 
         private void button14_Click(object sender, EventArgs e)
